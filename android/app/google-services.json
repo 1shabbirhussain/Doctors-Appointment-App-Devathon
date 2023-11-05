@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135514481989",
+    "project_id": "devathon-saylani",
+    "storage_bucket": "devathon-saylani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135514481989:android:1b74ed74cc6179e4e58a2c",
+        "android_client_info": {
+          "package_name": "com.example.hackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-AW6y-adVOPyXcX4SzVBXHjrCl8a_KMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
